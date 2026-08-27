@@ -11,7 +11,7 @@ import csv
 df = pd.read_excel("../../data/input/SearchKeywordLists.xlsx")
 
 
-with open("../../data/output/products.csv", "w", newline="", encoding="utf-8") as file:
+with open("../../data/output/products.csv", "a", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["keyword", "asin"])
 
