@@ -6,14 +6,14 @@ import time
 import random
 import pandas as pd
 import csv
-
+import os
 
 df = pd.read_excel("../../data/input/SearchKeywordLists.xlsx")
 
-
-with open("../../data/output/products.csv", "a", newline="", encoding="utf-8") as file:
-    writer = csv.writer(file)
-    writer.writerow(["keyword", "asin"])
+if not os.path.exists("../../data/output/products.csv"):
+    with open("../../data/output/products.csv", "a", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+        writer.writerow(["keyword", "asin"])
 
 #print(df)
 
@@ -37,13 +37,6 @@ for keyword in df["Search Keywords"]:
                 asin = product.get_attribute("data-asin")
                 print(asin)
                 writer.writerow([keyword, asin])
-
-
-    
-
-
-
-
 
     time.sleep(5)
 
