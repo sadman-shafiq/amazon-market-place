@@ -65,12 +65,22 @@ def scrape_individual_product(driver, asin):
     brand = brand.replace("Visit the ", "")
     brand = brand.replace(" Store", "")
 
+    price_whole = scrape_columns(driver, By.CSS_SELECTOR, ".a-price-whole")
+    price_fraction = scrape_columns(driver, By.CSS_SELECTOR, ".a-price-fraction")
+    price = f"{price_whole}.{price_fraction}"
+
+
     rating = scrape_columns(driver, By.CSS_SELECTOR, "span[data-hook='rating-out-of-text']")
     rating = rating.replace(" out of 5", "")
 
     review_count = scrape_columns(driver, By.CSS_SELECTOR, "#acrCustomerReviewText")
+    review_count = review_count.replace("(", "")
+    review_count = review_count.replace(")", "")
+
     image_url = scrape_image_url(driver)
+
     description = scrape_columns(driver, By.CSS_SELECTOR, "#feature-bullets li span.a-list-item")
+
     category = ""
     for category_element in driver.find_elements(By.CSS_SELECTOR, "#wayfinding-breadcrumbs_feature_div ul li a"):
         category_text = get_text_from_element(category_element)
@@ -82,8 +92,8 @@ def scrape_individual_product(driver, asin):
     reviews = get_reviews(driver)
     with open("../../data/output/product_details.csv", "a", newline="", encoding="utf-8") as file:
             writer = csv.writer(file)
-            writer.writerow([asin, title, brand, rating, review_count, image_url, description, category, json.dumps(reviews)])
-    if title and brand and rating and review_count and image_url and description and category and reviews:
+            writer.writerow([url, title, brand, rating, price, review_count, image_url, description, category, json.dumps(reviews)])
+    if title and brand and rating and price and review_count and image_url and description and category and reviews:
         log_request_result(url, "Success", 200)
         return True
     else:
@@ -108,7 +118,7 @@ def scrape_individual_product(driver, asin):
 def main():
     with open("../../data/output/product_details.csv", "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
-        writer.writerow(["ASIN", "Title", "Brand", "Rating", "Review_Count", "Image_URL", "Description", "Category", "Reviews"])
+        writer.writerow(["URL", "Title", "Brand", "Rating", "Price", "Review_Count", "Image_URL", "Description", "Category", "Reviews"])
     service = Service(executable_path="chromedriver.exe")
     driver = webdriver.Chrome(service=service)
     #driver.get("https://www.amazon.com")
