@@ -123,23 +123,30 @@ def main():
     driver = webdriver.Chrome(service=service)
     #driver.get("https://www.amazon.com")
     dataframe = pd.read_csv("../../data/output/products.csv")
-    asins = dataframe["asin"].dropna().tolist() 
-    #print(asins)
-    already_scraped_asins = set()
+    dataframe = dataframe.dropna(subset=["asin"])
+    dataframe = dataframe.drop_duplicates(subset=["asin"])
+    dataframe.to_csv("../../data/output/products.csv", index=False)
 
-    for asin in asins:
-        if asin in already_scraped_asins:
-            continue
-        flag = scrape_individual_product(driver, asin)
-        count = 0
-        while not flag and count < 3:
-            flag = scrape_individual_product(driver, asin)
-            count += 1
+    # for i, row in dataframe.iterrows():                                                                                                 
 
-        already_scraped_asins.add(asin)
+    #     if row["done"] == 1:
+    #         continue
+    #     asin = row["asin"]
+
+    #     flag = scrape_individual_product(driver, asin)
+    #     count = 0
+    #     while not flag and count < 3:
+    #         flag = scrape_individual_product(driver, asin)
+    #         count += 1
+
+    #     if flag:
+    #         dataframe.at[i, "done"] = 1
+
+    #         dataframe.to_csv("../../data/output/products.csv", index=False)
 
 
-        time.sleep(3)
+
+    #     time.sleep(3)
 
 
 
