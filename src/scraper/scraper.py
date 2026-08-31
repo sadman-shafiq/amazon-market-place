@@ -80,6 +80,8 @@ def scrape_individual_product(driver, asin):
     image_url = scrape_image_url(driver)
 
     description = scrape_columns(driver, By.CSS_SELECTOR, "#feature-bullets li span.a-list-item")
+    if not description:
+        description = scrape_columns(driver, By.CSS_SELECTOR, "#feature-bullets")
 
     category = ""
     for category_element in driver.find_elements(By.CSS_SELECTOR, "#wayfinding-breadcrumbs_feature_div ul li a"):
@@ -116,37 +118,35 @@ def scrape_individual_product(driver, asin):
 
 
 def main():
-    with open("../../data/output/product_details.csv", "w", newline="", encoding="utf-8") as file:
-        writer = csv.writer(file)
-        writer.writerow(["URL", "Title", "Brand", "Rating", "Price", "Review_Count", "Image_URL", "Description", "Category", "Reviews"])
+    # with open("../../data/output/product_details.csv", "w", newline="", encoding="utf-8") as file:
+    #     writer = csv.writer(file)
+    #     writer.writerow(["URL", "Title", "Brand", "Rating", "Price", "Review_Count", "Image_URL", "Description", "Category", "Reviews"])
     service = Service(executable_path="chromedriver.exe")
     driver = webdriver.Chrome(service=service)
     #driver.get("https://www.amazon.com")
     dataframe = pd.read_csv("../../data/output/products.csv")
-    dataframe = dataframe.dropna(subset=["asin"])
-    dataframe = dataframe.drop_duplicates(subset=["asin"])
-    dataframe.to_csv("../../data/output/products.csv", index=False)
+    
 
-    # for i, row in dataframe.iterrows():                                                                                                 
+    for i, row in dataframe.iterrows():                                                                                                 
 
-    #     if row["done"] == 1:
-    #         continue
-    #     asin = row["asin"]
+        if row["done"] == 1:
+            continue
+        asin = row["asin"]
 
-    #     flag = scrape_individual_product(driver, asin)
-    #     count = 0
-    #     while not flag and count < 3:
-    #         flag = scrape_individual_product(driver, asin)
-    #         count += 1
+        flag = scrape_individual_product(driver, asin)
+        count = 0
+        while not flag and count < 3:
+            flag = scrape_individual_product(driver, asin)
+            count += 1
 
-    #     if flag:
-    #         dataframe.at[i, "done"] = 1
-
-    #         dataframe.to_csv("../../data/output/products.csv", index=False)
+        if flag:
+            dataframe.at[i, "done"] = 1
 
 
+        time.sleep(3)
 
-    #     time.sleep(3)
+        if i % 10 == 0:
+            dataframe.to_csv("../../data/output/products.csv", index=False)
 
 
 
