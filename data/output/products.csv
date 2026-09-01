@@ -88,9 +88,9 @@ smartwatch,B0GVN1L45Y,1
 smartwatch,B0DG2W1RFV,1
 smartwatch,B0FL6XZXDK,1
 smartwatch,B0GFCD3YBW,1
-smartwatch,B09VGPLPZR,0
+smartwatch,B09VGPLPZR,1
 smartwatch,B0GR4WL5S3,1
-smartwatch,B0HBWJPLJ7,0
+smartwatch,B0HBWJPLJ7,1
 smartwatch,B0CG6NBJ61,1
 smartwatch,B0H1DGNYK2,1
 smartwatch,B0FWR4VJ87,1
@@ -103,7 +103,7 @@ smartwatch,B0D7VG4754,1
 smartwatch,B092RCLKHN,1
 smartwatch,B0FSKL8NH1,1
 smartwatch,B0FWR9H9L9,1
-smartwatch,B0CW3VWC3X,0
+smartwatch,B0CW3VWC3X,1
 smartwatch,B0G4F6ZCSV,1
 smartwatch,B0F7QD4HSD,1
 smartwatch,B0CT3SGHXL,1
@@ -118,7 +118,7 @@ phone case,B0DCF8PVQ4,1
 phone case,B0FGC514QH,1
 phone case,B0DFH8SNK5,1
 phone case,B0FFSV7LF5,1
-phone case,B0CFVDX4HT,0
+phone case,B0CFVDX4HT,1
 phone case,B0DCBZ3D8F,1
 phone case,B0H4TR8LB4,1
 phone case,B0DH22XH5Y,1
@@ -127,7 +127,7 @@ phone case,B0D8P8NJNS,1
 phone case,B0B8CGBSRH,1
 phone case,B07MKN1XLZ,1
 phone case,B0H8LBXW91,1
-phone case,B0DB1B3GH6,0
+phone case,B0DB1B3GH6,1
 phone case,B08DY8GJN4,1
 phone case,B099JVC9HL,1
 phone case,B01K6PAZ1M,1
@@ -189,7 +189,7 @@ webcam HD,B0F21J9J7V,1
 webcam HD,B0CQJVSL1Z,1
 webcam HD,B07M6Y7355,1
 webcam HD,B09DVGV7BH,1
-webcam HD,B0HFNQ2SVZ,0
+webcam HD,B0HFNQ2SVZ,1
 webcam HD,B0G29MV7GK,1
 webcam HD,B0GG3JNQGF,1
 webcam HD,B0B5R6KD2H,1
@@ -257,34 +257,34 @@ desk lamp LED,B0DRCVQTB8,1
 desk lamp LED,B0H5T7LYCF,1
 desk lamp LED,B0FC2PYLQC,1
 air purifier,B07QPW9HL6,1
-air purifier,B09GTRVJQM,0
+air purifier,B09GTRVJQM,1
 air purifier,B07VVK39F7,1
-air purifier,B09FJSJQ95,0
-air purifier,B0GXVLY86Z,0
-air purifier,B08KTH125D,0
-air purifier,B0GSX69MTH,0
-air purifier,B0FK53C7B9,0
-air purifier,B0DCBC8KKV,0
-air purifier,B0BGPF71Q6,0
-air purifier,B0FN2TGQR5,0
-air purifier,B0B4ZSKPNL,0
-air purifier,B08FJ678YK,0
-air purifier,B0H7RPKQB4,0
-air purifier,B0CXJ97TV1,0
-air purifier,B0998FWTHP,0
-air purifier,B001GKLYDK,0
+air purifier,B09FJSJQ95,1
+air purifier,B0GXVLY86Z,1
+air purifier,B08KTH125D,1
+air purifier,B0GSX69MTH,1
+air purifier,B0FK53C7B9,1
+air purifier,B0DCBC8KKV,1
+air purifier,B0BGPF71Q6,1
+air purifier,B0FN2TGQR5,1
+air purifier,B0B4ZSKPNL,1
+air purifier,B08FJ678YK,1
+air purifier,B0H7RPKQB4,1
+air purifier,B0CXJ97TV1,1
+air purifier,B0998FWTHP,1
+air purifier,B001GKLYDK,1
 air purifier,B0BNDM2RNG,1
-air purifier,B0DJG1731C,0
-air purifier,B09QZDKQLF,0
-air purifier,B004VGIGVY,0
-air purifier,B0FPCD3MJK,0
-air purifier,B01728NLRG,0
+air purifier,B0DJG1731C,1
+air purifier,B09QZDKQLF,1
+air purifier,B004VGIGVY,1
+air purifier,B0FPCD3MJK,1
+air purifier,B01728NLRG,1
 air purifier,B083TMWFSZ,1
-air purifier,B09LMF648R,0
-air purifier,B09BJMY8HL,0
+air purifier,B09LMF648R,1
+air purifier,B09BJMY8HL,1
 air purifier,B09MRQTHG3,1
-air purifier,B0H699TJC3,0
-air purifier,B0H691WC3S,0
+air purifier,B0H699TJC3,1
+air purifier,B0H691WC3S,1
 instant pot,B00FLYWNYQ,1
 instant pot,B01M71BZD9,1
 instant pot,B06Y1YD5W7,1
@@ -309,846 +309,846 @@ instant pot,B0DNF49K1D,1
 instant pot,B07VT23JDM,1
 instant pot,B08TMTJZ8L,1
 instant pot,B08WCLJ7JG,1
-instant pot,B0D6728WV1,0
-electric toothbrush,B0B5HRWH1S,0
-electric toothbrush,B0FKBGLZRL,0
-electric toothbrush,B0GQW7WKGN,0
-electric toothbrush,B0G3QN4SFY,0
-electric toothbrush,B09LD7WRVS,0
-electric toothbrush,B01AKGRTUM,0
-electric toothbrush,B0F5BV6B9G,0
-electric toothbrush,B0DNF673KY,0
-electric toothbrush,B0D5R69MPV,0
-electric toothbrush,B0FN3S7LKG,0
-electric toothbrush,B0GL15X3Q2,0
-electric toothbrush,B09LD8VFS1,0
-electric toothbrush,B09LD8T445,0
-electric toothbrush,B09LD8VXLX,0
-electric toothbrush,B0H46WV6X2,0
-electric toothbrush,B0H37L6YRC,0
-electric toothbrush,B0HF49D8VL,0
-electric toothbrush,B0FKB289VY,0
-electric toothbrush,B07XF8NT4C,0
-electric toothbrush,B0B5YPHMW8,0
-electric toothbrush,B0FQJX3G3M,0
-electric toothbrush,B0F9FNQPDL,0
-electric toothbrush,B0H46R5KYR,0
-electric toothbrush,B0D1DRYBTN,0
-electric toothbrush,B0D1DQ7BH9,0
-electric toothbrush,B0G3QTZV2L,0
-electric toothbrush,B0G3RD2XVH,0
-electric toothbrush,B0GQWSKBLD,0
-electric toothbrush,B0DLLGG2Z8,0
-electric toothbrush,B07XG68WX2,0
-electric toothbrush,B0B5HVM6JX,0
-electric toothbrush,B0FRFW6VYR,0
-electric toothbrush,B0D1DB1LXJ,0
-electric toothbrush,B0GQWPSTH8,0
-electric toothbrush,B0GQWRBPK1,0
-electric toothbrush,B0CZL55GR7,0
-electric toothbrush,B07L5P2J8D,0
-electric toothbrush,B0B9RQJFDV,0
-electric toothbrush,B084TM4XKG,0
-electric toothbrush,B008I2IKI6,0
-electric toothbrush,B0G3QSHJCC,0
-electric toothbrush,B0DCCJZC9F,0
-electric toothbrush,B003UKM9CO,0
-electric toothbrush,B0DNMLK6SC,0
-electric toothbrush,B0B5HSNPNH,0
-electric toothbrush,B0FWM4HWBM,0
-electric toothbrush,B0B5HT9TSK,0
-electric toothbrush,B0B6JTYB49,0
-electric toothbrush,B0G67KHJ47,0
-electric toothbrush,B0CP8QM3R1,0
-electric toothbrush,B08WSTTCMG,0
-electric toothbrush,B0G156GM21,0
-electric toothbrush,B0HCXX5H1P,0
-electric toothbrush,B0F32L1MCQ,0
-electric toothbrush,B0B6KKXWQV,0
-electric toothbrush,B0GWWN7WCK,0
-electric toothbrush,B0B5YPZS45,0
-electric toothbrush,B078BF27BF,0
-electric toothbrush,B0FD3TL8GL,0
-budget laptop,B0DT81KH5Z,0
-budget laptop,B0GRJ59M6Y,0
-budget laptop,B0GY16ZXZV,0
-budget laptop,B0DVCBYMQY,0
-budget laptop,B0H9D5WDWV,0
-budget laptop,B0C8171GTK,0
-budget laptop,B0GX66CNNJ,0
-budget laptop,B0GVYYSF7S,0
-budget laptop,B0F53SQRH4,0
-budget laptop,B0H2LTLNM4,0
-budget laptop,B0FS1V6XZD,0
-budget laptop,B08SHN3TZP,0
-budget laptop,B0F541NPR2,0
-budget laptop,B09SVSBVP1,0
-budget laptop,B0GZNFHH9H,0
-budget laptop,B0GRVFY42Q,0
-budget laptop,B0GN8PWC9M,0
-budget laptop,B09S3HNMHF,0
-budget laptop,B0CBJ46QZX,0
-budget laptop,B09XY1R1DR,0
-budget laptop,B0H99JJH7N,0
-budget laptop,B08CGSML8W,0
-budget laptop,B0D6Z664QC,0
-budget laptop,B0F68RH487,0
-bluetooth speaker,B0C4BZ28PG,0
-bluetooth speaker,B09B8V1LZ3,0
-bluetooth speaker,B0BRKPVZB4,0
-bluetooth speaker,B08FDPW8KR,0
-bluetooth speaker,B0HD9P2N29,0
-bluetooth speaker,B0CQ53RVTW,0
-bluetooth speaker,B0D6SX8VLQ,0
-bluetooth speaker,B0FKVSH438,0
-bluetooth speaker,B09MFBNTG3,0
-bluetooth speaker,B0H7X9HRHP,0
-bluetooth speaker,B0DN35M7S9,0
-bluetooth speaker,B0DKYB8LFV,0
-bluetooth speaker,B08TTCHNP2,0
-bluetooth speaker,B0DYF5Y6RG,0
-bluetooth speaker,B0GVNC5ZJ9,0
-bluetooth speaker,B0CJVFWQQH,0
-bluetooth speaker,B0BF2GL3J7,0
-bluetooth speaker,B0D6WD2QSQ,0
-bluetooth speaker,B0F998HYS5,0
-bluetooth speaker,B088KRPCQJ,0
-bluetooth speaker,B0D6W8GSL3,0
-bluetooth speaker,B0FS1XDKTL,0
-bluetooth speaker,B0HC5PBRL8,0
-bluetooth speaker,B0D4QMJHR3,0
-bluetooth speaker,B07DMMG7QY,0
-bluetooth speaker,B0D6WB7BV6,0
-bluetooth speaker,B0CB9PF1N6,0
-bluetooth speaker,B0FF4NB4QG,0
-kitchen knife set,B0H2NBJ2RN,0
-kitchen knife set,B08R64HCRK,0
-kitchen knife set,B0GX19GQXH,0
-kitchen knife set,B0DKMHKDK3,0
-kitchen knife set,B0C1YBPJ43,0
-kitchen knife set,B00GHX5HGG,0
-kitchen knife set,B0H2NLCZBQ,0
-kitchen knife set,B0G4M9K8CY,0
-kitchen knife set,B0CG8WC1BV,0
-kitchen knife set,B0D22R6RXB,0
-kitchen knife set,B0CSYKLLJ5,0
-kitchen knife set,B0G8HTRKQG,0
-kitchen knife set,B0F3KWZQ61,0
-kitchen knife set,B01ALYD1WI,0
-kitchen knife set,B0DYP3J5BW,0
-kitchen knife set,B0CD7FMZ67,0
-kitchen knife set,B0H29NQJSF,0
-kitchen knife set,B0F9FCYKJZ,0
-kitchen knife set,B0CWRBSKD6,0
-kitchen knife set,B0H41MQ5ZK,0
-kitchen knife set,B0GTV7FZJT,0
-kitchen knife set,B0CP5QXC1H,0
-kitchen knife set,B0G4LV352H,0
-kitchen knife set,B0DQ7ZHH31,0
-kitchen knife set,B0FBGB5Q5T,0
-kitchen knife set,B0CRH87MK9,0
-kitchen knife set,B0BNJWWR3S,0
-kitchen knife set,B0DFZG4CR3,0
-kitchen knife set,B00R3Z49G6,0
-kitchen knife set,B00GIBKC3K,0
-kitchen knife set,B08VJLYQ5D,0
-kitchen knife set,B07BN5MZBW,0
-kitchen knife set,B0CWRCCFTM,0
-kitchen knife set,B09HCX9BTV,0
-kitchen knife set,B0G8HSMYJJ,0
-kitchen knife set,B0GQGJ4YF5,0
-kitchen knife set,B007RWD11Y,0
-kitchen knife set,B0GCJQ4Z51,0
-kitchen knife set,B0DBJSS5LD,0
-kitchen knife set,B0G5GGC7FP,0
-kitchen knife set,B0C9LP36Q5,0
-kitchen knife set,B09B7R3SY7,0
-kitchen knife set,B09Q5KPFXM,0
-kitchen knife set,B0GK19NTQP,0
-kitchen knife set,B0BW91HX7D,0
-kitchen knife set,B0BFQLRHTJ,0
-kitchen knife set,B0FXX4Q21N,0
-kitchen knife set,B0GK6Q7H3W,0
-kitchen knife set,B01B3GARVG,0
-kitchen knife set,B0FM83SLTL,0
-kitchen knife set,B0GC9RJQT1,0
-kitchen knife set,B0DB4W8FB1,0
-kitchen knife set,B09B7WRM8P,0
-kitchen knife set,B08DF5L81H,0
-kitchen knife set,B0FDR5YWM6,0
-kitchen knife set,B0CFXNZ26Z,0
-kitchen knife set,B0D9B96TBX,0
-kitchen knife set,B09BQSYYHC,0
-kitchen knife set,B0CKXSGV8F,0
-kitchen knife set,B0FDQ6SLSF,0
-kitchen knife set,B07ZJPXZDL,0
-kitchen knife set,B0D6QYVR24,0
-kitchen knife set,B0FM3217M3,0
-DSLR camera,B07PCSKGP7,0
-DSLR camera,B0FCY4SX8D,0
-DSLR camera,B07C2Z21X5,0
-DSLR camera,B0101RW3QK,0
-DSLR camera,B0B9BLHWB8,0
-DSLR camera,B0GYZSLDL5,0
-DSLR camera,B0C5PGRP7V,0
-DSLR camera,B06Y5RTN1T,0
-DSLR camera,B0H2DVMCR1,0
-DSLR camera,B0BLLCJ963,0
-DSLR camera,B09ZRN1N3Z,0
-DSLR camera,B0012OGF6Q,0
-DSLR camera,B004U4UHTQ,0
-DSLR camera,B07B45D8WV,0
-DSLR camera,B001EQ4BVI,0
-DSLR camera,B0F2GQ56YW,0
-DSLR camera,B06Y5ZCFHX,0
-DSLR camera,B00I1CPA0O,0
-DSLR camera,B0BNL4HJLB,0
-DSLR camera,B0DFC7L4XC,0
-DSLR camera,B08C32RVVR,0
-coffee maker,B0GVTQQLPD,0
-coffee maker,B01GJOMWVA,0
-coffee maker,B0GYZ32QLK,0
-coffee maker,B01N6T5QNO,0
-coffee maker,B07S98411N,0
-coffee maker,B09715G57M,0
-coffee maker,B07684BPLB,0
-coffee maker,B0C8B9V7HR,0
-coffee maker,B0D8LXRHQ8,0
-coffee maker,B0GXGP42QS,0
-coffee maker,B0H42JFSHP,0
-coffee maker,B0FPDWY7DH,0
-coffee maker,B0GL99Y6ND,0
-coffee maker,B00MVWGQX0,0
-coffee maker,B0H6M2J4GK,0
-coffee maker,B0GLQYTWSL,0
-coffee maker,B00JVSVM36,0
-coffee maker,B0CXTJPCMD,0
-coffee maker,B0FLSLVSHB,0
-coffee maker,B0FJXRCCQ1,0
-coffee maker,B0FHSC6SPM,0
-coffee maker,B0DKDSPMRC,0
-coffee maker,B0GV293Z4L,0
-coffee maker,B0GQBYVN9W,0
-coffee maker,B0FMTSRKYL,0
-coffee maker,B0DDT44XV1,0
-coffee maker,B0H6947QWS,0
-coffee maker,B0H88CWVXC,0
-coffee maker,B0D9QFRJMX,0
-coffee maker,B0892TW82K,0
-coffee maker,B0D45PK5V4,0
-coffee maker,B078NN17K3,0
-coffee maker,B0CT43D46H,0
-coffee maker,B0CZQCTD4K,0
-coffee maker,B08QD33PZ2,0
-coffee maker,B00CH9QWOU,0
-coffee maker,B0DPNJVG1Z,0
-coffee maker,B0CSDRZSGG,0
-coffee maker,B0BM3C13B6,0
-coffee maker,B00EI7DPPI,0
-coffee maker,B0DJFBF3SH,0
-coffee maker,B0DHCJDJBW,0
-coffee maker,B0C2JK9Y8V,0
-coffee maker,B002YI2IG0,0
-coffee maker,B07PFLM2LK,0
-coffee maker,B018UQ5AMS,0
-coffee maker,B0FMSTSYL7,0
-coffee maker,B077K9YW7D,0
-coffee maker,B01GJOMWYC,0
-coffee maker,B0F5JFTR1Q,0
-coffee maker,B0892V8JT8,0
-coffee maker,B0HDBKMR2F,0
-coffee maker,B0GGLB36C5,0
-coffee maker,B0DBHTL3CN,0
-coffee maker,B0FG7Q1X5B,0
-coffee maker,B0CWCHHDK5,0
-coffee maker,B0B41D4PR1,0
-coffee maker,B0FFN4JDNP,0
-coffee maker,B0DD4CWPW2,0
-coffee maker,B078WMLXXG,0
-coffee maker,B00AF7WUO2,0
-coffee maker,B00006IV0Q,0
-coffee maker,B08V8BQX2Z,0
-coffee maker,B0DR31TG5X,0
-coffee maker,B01N05O5GW,0
-coffee maker,B000FFILRO,0
-coffee maker,B000FFRZ26,0
-coffee maker,B07B9BNLHM,0
-gaming chair,B0FVXRZJ12,0
-gaming chair,B0GXZ69S18,0
-gaming chair,B0H8DBTLV6,0
-gaming chair,B0F9YFX3QN,0
-gaming chair,B0H6SD9317,0
-gaming chair,B0H49HVCPW,0
-gaming chair,B0F21QDV5F,0
-gaming chair,B0GSPDRHW1,0
-gaming chair,B0DYSK9GM8,0
-gaming chair,B0FRMS6KF3,0
-gaming chair,B0899BXLXD,0
-gaming chair,B0H82WWZ1D,0
-gaming chair,B08B12P6CS,0
-gaming chair,B0HBNDKB2X,0
-gaming chair,B0H7BR91VM,0
-gaming chair,B0FWQK7TBQ,0
-gaming chair,B0GXVPBXKX,0
-gaming chair,B0DCHXTGRN,0
-gaming chair,B0FN3JSVNZ,0
-gaming chair,B0H7XF1D5Z,0
-gaming chair,B0FQ73W5M2,0
-gaming chair,B0DQP3717T,0
-gaming chair,B0DZCLTHW7,0
-gaming chair,B0FXX83W1H,0
-gaming chair,B0H6ZWS7BF,0
-gaming chair,B0CG6V2XGS,0
-gaming chair,B0BN6RRD5V,0
-gaming chair,B0FRMQ5X9R,0
-gaming chair,B0FFGK32C5,0
-gaming chair,B0CP22DQQS,0
-gaming chair,B0GVZYSLK2,0
-gaming chair,B0D9VPSQM7,0
-gaming chair,B0D4TKP2M1,0
-gaming chair,B0G2BPN56M,0
-gaming chair,B0CG6TN45R,0
-gaming chair,B0DLVWB9RC,0
-gaming chair,B0GS5QKBP2,0
-gaming chair,B0DGK8TG51,0
-gaming chair,B0GHWBLFMN,0
-gaming chair,B0GXZ39NBD,0
-gaming chair,B0CB1BNBY7,0
-gaming chair,B0GXVTGXC2,0
-gaming chair,B0GHWLZF39,0
-gaming chair,B0H6PZMQ1L,0
-gaming chair,B0FH25Z9W3,0
-gaming chair,B0GXDWJD86,0
-gaming chair,B0DY6ZP7YW,0
-gaming chair,B0F6WBLG4W,0
-gaming chair,B0H14TPV1L,0
-gaming chair,B0GFVL4Z2W,0
-gaming chair,B0FLJLV8WN,0
-gaming chair,B0H6LKBHYN,0
-gaming chair,B0F21SSY1N,0
-gaming chair,B0DGK4LBX9,0
-gaming chair,B0DZNMWKXH,0
-gaming chair,B0FBWHDDFT,0
-gaming chair,B0FM87RYYR,0
-gaming chair,B0F21SC1LN,0
-backpack,B0DL8W99LM,0
-backpack,B0C13GFY7N,0
-backpack,B0772RGLXL,0
-backpack,B0FF4TFCW3,0
-backpack,B0GMPLYJ61,0
-backpack,B0DDB4DTJ1,0
-backpack,B0DSQM6PZH,0
-backpack,B07F2YJRN2,0
-backpack,B07CPW148Z,0
-backpack,B0CHGWX7HG,0
-backpack,B07V4R4Z77,0
-backpack,B0CHGVV5L7,0
-backpack,B08KSHWYL2,0
-backpack,B0DQSJM8SX,0
-backpack,B006HFJA12,0
-backpack,B0DT1H3CR1,0
-backpack,B0FSLB42V3,0
-backpack,B0DDBRKYS2,0
-backpack,B0DH6C8XF6,0
-backpack,B0F9LRK6SS,0
-backpack,B09G93DTC4,0
-backpack,B0CJV796DD,0
-backpack,B085915D2Q,0
-backpack,B0G6KVPV4N,0
-backpack,B0F26F1MJN,0
-backpack,B0C49VRLZF,0
-monitor 27 inch,B0D9MK23S7,0
-monitor 27 inch,B0DN13DH1K,0
-monitor 27 inch,B0FHXY7VZ5,0
-monitor 27 inch,B0CH9WTW56,0
-monitor 27 inch,B0CHHSFMRL,0
-monitor 27 inch,B0DM6SNBGM,0
-monitor 27 inch,B0DTH3SGZD,0
-monitor 27 inch,B0H5FG8TL2,0
-monitor 27 inch,B0FLM15Q5L,0
-monitor 27 inch,B0DB9Q5G3R,0
-monitor 27 inch,B0B3DS23NB,0
-monitor 27 inch,B0H5FJXKRG,0
-monitor 27 inch,B0H85RW8H8,0
-monitor 27 inch,B0DF786923,0
-monitor 27 inch,B0GDWKLYTH,0
-monitor 27 inch,B0FBWJ8RZW,0
-monitor 27 inch,B0D8LH2VSP,0
-monitor 27 inch,B0DK44759Y,0
-monitor 27 inch,B0FG632MT5,0
-monitor 27 inch,B0C8ZJNZY8,0
-monitor 27 inch,B0CP7RZRMD,0
-monitor 27 inch,B0F6PLGZQG,0
-monitor 27 inch,B0FTVB3V15,0
-monitor 27 inch,B0H4KL7XZ8,0
-monitor 27 inch,B0GJ5HHTJT,0
-monitor 27 inch,B0D2R2GXK8,0
-water bottle,B0CQVWT2NH,0
-water bottle,B0GGD62HDT,0
-water bottle,B0B35K8H4Q,0
-water bottle,B0F1DN779Z,0
-water bottle,B085DTZQNZ,0
-water bottle,B0BZYCJK89,0
-water bottle,B0C3B6P16S,0
-water bottle,B0G58QQTD9,0
-water bottle,B0DSGHDTW6,0
-water bottle,B0CPKT4Q41,0
-water bottle,B0H6WYQCTX,0
-water bottle,B0B6DCN2CJ,0
-water bottle,B085DV8T75,0
-water bottle,B0D2W1MKZX,0
-water bottle,B0DQ5RJ113,0
-water bottle,B0G6GC8YD7,0
-water bottle,B0DR9ML5X9,0
-water bottle,B0H3SW9DJV,0
-water bottle,B085DVHQ57,0
-water bottle,B085DVNHHK,0
-water bottle,B0C59B9VJ4,0
-water bottle,B0D8J2ZB8P,0
-water bottle,B0DDM6V1MR,0
-water bottle,B0CXSCF61B,0
-water bottle,B0BHYXC7PG,0
-water bottle,B0FFTL7QNC,0
-water bottle,B0C59BYVTQ,0
-water bottle,B0F2WMS7CC,0
-water bottle,B0FK1CDVHB,0
-water bottle,B09SJRBMP3,0
-water bottle,B0BZYBP74R,0
-water bottle,B0FFTLT14Y,0
-water bottle,B0DLCG65B5,0
-water bottle,B07N2F3JXP,0
-water bottle,B0D8J37DHP,0
-water bottle,B0CQVWW5QK,0
-water bottle,B0F5S3SQJK,0
-water bottle,B0GH7M2MPW,0
-water bottle,B0DGHQWVDQ,0
-water bottle,B0DR9PVSC9,0
-water bottle,B0CDL2V8KX,0
-water bottle,B0DG36YPZM,0
-water bottle,B0CP9YB3Q4,0
-water bottle,B09LM1P132,0
-water bottle,B0H1YP71W7,0
-water bottle,B0FFTMLYT1,0
-water bottle,B07YXM6XTF,0
-water bottle,B0FC2PYBBD,0
-water bottle,B0BY2Q3Q4K,0
-water bottle,B00LZSR3KQ,0
-water bottle,B0DTP745KH,0
-water bottle,B07V8LP11V,0
-water bottle,B0GVG4BF6W,0
-water bottle,B0BHBP1X1B,0
-water bottle,B0842S75K7,0
-water bottle,B0C1DZKS8J,0
-water bottle,B072HPWW1X,0
-water bottle,B0GL17JVGJ,0
-water bottle,B0GTYJXMT7,0
-water bottle,B08TQ8B1KH,0
-water bottle,B082TGNDJR,0
-water bottle,B0BBS8CTH2,0
-water bottle,B0DRWLLLM9,0
-water bottle,B0F1DN1W71,0
-water bottle,B0F8RCVN9H,0
-water bottle,B0BMSB9QRM,0
-water bottle,B0BMRZGGK6,0
-water bottle,B082H5S2N3,0
-t-shirt,B07XLTPC5L,0
-t-shirt,B086KY66PJ,0
-t-shirt,B0787P86ZZ,0
-t-shirt,B077ZMKWVM,0
-t-shirt,B07JCS8NRC,0
-t-shirt,B00HVW5HP8,0
-t-shirt,B09313VG36,0
-t-shirt,B0D2PKRQSN,0
-t-shirt,B0BNP7STX3,0
-t-shirt,B083JPS5T8,0
-t-shirt,B07NHW8Z3N,0
-t-shirt,B00JN3CIHS,0
-t-shirt,B09LD7VRGV,0
-t-shirt,B0GQVHN9N4,0
-t-shirt,B0828MYG9M,0
-t-shirt,B0GF15CCZ1,0
-t-shirt,B0BPYCHYP9,0
-t-shirt,B0DJNJBVWG,0
-t-shirt,B00KBZOTKQ,0
-t-shirt,B074XY7M7Q,0
-t-shirt,B01KNM3HG8,0
-t-shirt,B0C1Z2WXLS,0
-t-shirt,B0G3WJZNZN,0
-t-shirt,B0DJNFSHMQ,0
-t-shirt,B0CLFFB8MH,0
-t-shirt,B00VTVAR2U,0
-t-shirt,B072V8Y2C8,0
-t-shirt,B07KFQJD64,0
-t-shirt,B07M8NXFWM,0
-t-shirt,B00LSRTZPU,0
-t-shirt,B09B4ML4HZ,0
-t-shirt,B09SNTBDKQ,0
-t-shirt,B0CYC5GDYP,0
-t-shirt,B0GTR65922,0
-t-shirt,B08F2NB5PH,0
-t-shirt,B0FFQKF4V7,0
-t-shirt,B0G4RRS5BP,0
-t-shirt,B07HRHBLJ4,0
-t-shirt,B0D4QT1JDQ,0
-t-shirt,B08N5G7ZX7,0
-t-shirt,B00VTV95AK,0
-t-shirt,B071DVQLT2,0
-t-shirt,B0767PWDQ4,0
-t-shirt,B0FVBPT4BF,0
-t-shirt,B0BR4RZ58V,0
-t-shirt,B0G5442JJX,0
-t-shirt,B0FF5DLFND,0
-t-shirt,B0CLPJGXHK,0
-t-shirt,B08WTYGVL5,0
-t-shirt,B09GYK6TWW,0
-t-shirt,B09V33J4K9,0
-t-shirt,B09QJHXZPJ,0
-t-shirt,B0DDTP97LQ,0
-t-shirt,B0H7HWP7LW,0
-t-shirt,B0FXWWQ6YT,0
-t-shirt,B0H1C9YMN5,0
-notebook journal,B0GCTGMRH2,0
-notebook journal,B0GCV1DP3T,0
-notebook journal,B0FXGBD3PB,0
-notebook journal,B0FXG9N23D,0
-notebook journal,B0CT4HX4T9,0
-notebook journal,B01DN8TCEU,0
-notebook journal,B0DZ323MTR,0
-notebook journal,B0DCBY7KH4,0
-notebook journal,B0BYVN7WLB,0
-notebook journal,B0967ZVMPK,0
-notebook journal,B0CWD4JY8W,0
-notebook journal,B07L4JCG7T,0
-notebook journal,B0B4DKQSDV,0
-notebook journal,B0GTDBXDZT,0
-notebook journal,B003O2RXUQ,0
-notebook journal,B0CR6N36LF,0
-notebook journal,B0G2XTRGNX,0
-notebook journal,B0BQJB21XN,0
-notebook journal,B0GV339M4D,0
-notebook journal,B0CWS28VK1,0
-notebook journal,B0D1KDFG6J,0
-notebook journal,B0GPFKDGK8,0
-notebook journal,B0CFVNXW8J,0
-notebook journal,B0G5YTJQCF,0
-notebook journal,B0B8HG6439,0
-notebook journal,B0DPJTS6ZB,0
-notebook journal,B01BHL3DCC,0
-notebook journal,B0CG28KM9Y,0
-notebook journal,8883707168,0
-notebook journal,B0C8JZ57R1,0
-notebook journal,B00D3OR58A,0
-notebook journal,B00P9U2EM8,0
-notebook journal,B071NRXVBP,0
-notebook journal,B08FC2VFLF,0
-notebook journal,B0BTV6X42F,0
-notebook journal,B0BZ3F5DCM,0
-notebook journal,B0F9NXFRR6,0
-notebook journal,B0DHRYBNDG,0
-notebook journal,B0G5PLHR14,0
-notebook journal,B097GVX9W9,0
-notebook journal,B0028N6PSS,0
-notebook journal,B07DPLQMF9,0
-notebook journal,B0CX1RDX77,0
-notebook journal,B0C23S36QF,0
-notebook journal,B07ZHNKGVC,0
-notebook journal,B0CN3SKN8M,0
-notebook journal,B071VJPRD4,0
-notebook journal,B0BXX1TJC8,0
-notebook journal,B0BVG2WPX6,0
-notebook journal,B08KCVRL2V,0
-notebook journal,B0BLHW4KRY,0
-notebook journal,B07ZN5PKP7,0
-notebook journal,B0D842FXFX,0
-notebook journal,B0C1Z48WKW,0
-notebook journal,B0CN3T7NZ5,0
-notebook journal,B08YNMTT2D,0
-notebook journal,B07FBC8P59,0
-notebook journal,B0CD9NXQXR,0
-notebook journal,B00X7X2KIC,0
-notebook journal,B0F38F2GF7,0
-notebook journal,B0F9WDY38C,0
-notebook journal,B0BYV2DJ1K,0
-notebook journal,B07F21QL27,0
-notebook journal,B0F9KTK8KD,0
-notebook journal,B0D1R5PMTB,0
-notebook journal,B0F9YMXCTF,0
-notebook journal,B08W4DKKCD,0
-notebook journal,B0DZ1Y32YG,0
-sneakers,B07B422G13,0
-sneakers,B014GNJS22,0
-sneakers,B084Z3XCDC,0
-sneakers,B0D5N58H38,0
-sneakers,B0C85BX7LR,0
-sneakers,B0CY23TN6X,0
-sneakers,B0936R8ZF3,0
-sneakers,B0B89H61L5,0
-sneakers,B0CK3BZBCM,0
-sneakers,B0BZXTB2RJ,0
-sneakers,B07B41HCNT,0
-sneakers,B0CL7RDRRT,0
-sneakers,B00FLCQ7EU,0
-sneakers,B0B9BN2M4S,0
-sneakers,B0CFN4QH37,0
-sneakers,B077ZF7B7R,0
-sneakers,B000ARIVG8,0
-sneakers,B077ZNKJ3Z,0
-sneakers,B00DJSRMVK,0
-sneakers,B0F4WY29V3,0
-sneakers,B0CMQLKP9J,0
-sneakers,B0G459XG71,0
-sneakers,B0G4XB3L4M,0
-sneakers,B0CGT6ZRGJ,0
-sneakers,B0CJTDR63F,0
-sneakers,B0DK5VL765,0
-sneakers,B0G5BS3RLS,0
-sneakers,B0D6CKVZ6F,0
-sneakers,B0GY1H4MBY,0
-sneakers,B093TYSZ6C,0
-sneakers,B0C5Z3C3JB,0
-sneakers,B0BSMDKK65,0
-sneakers,B083PP9CBY,0
-sneakers,B09VTJ53QD,0
-sneakers,B08GB5VH31,0
-sneakers,B0G5BPXN9H,0
-sneakers,B09H3NJX44,0
-sneakers,B07B428PCL,0
-sneakers,B0D5N3YV1W,0
-sneakers,B0DHLJS6KB,0
-sneakers,B0D3622TBQ,0
-sneakers,B0D5MV92SN,0
-sneakers,B0CNY53JZP,0
-sneakers,B0CTJ4P8CH,0
-sneakers,B000OCQ1DY,0
-sneakers,B0FNS4SZLX,0
-sneakers,B0DGLZ97VN,0
-sneakers,B0DK5ZR1LS,0
-sneakers,B0F4MHZKJB,0
-sneakers,B08DXMTLXR,0
-sneakers,B0DC9M8YPB,0
-sneakers,B0FHJG27F1,0
-sneakers,B07BKLXNC7,0
-sneakers,B09NSS4RJV,0
-sneakers,B0GDF12DZM,0
-sneakers,B0CFZLJNZ4,0
-sneakers,B0D5MWHSQD,0
-candle,B0FKYVRDNF,0
-candle,B0GF1NWKQX,0
-candle,B0DKTBL8G6,0
-candle,B0B5M1Q93F,0
-candle,B0F66HVPDY,0
-candle,B01N0RSC4K,0
-candle,B0FZTTHNKK,0
-candle,B0FV3216JR,0
-candle,B0GWR4XW6C,0
-candle,B0CC98RMFT,0
-candle,B07TYM4LMX,0
-candle,B08XZ3HWF3,0
-candle,B07GH691SQ,0
-candle,B01M7TTA2S,0
-candle,B0F3DQSZKT,0
-candle,B0H3NVNCNR,0
-candle,B0FZTNH72L,0
-candle,B0DJLVBBDX,0
-candle,B0D8VR4BTZ,0
-candle,B000YBFJQU,0
-candle,B0F3DRTCB2,0
-candle,B0GYYFY9B5,0
-candle,B0FSRFYC4C,0
-candle,B0GS5MYPW8,0
-candle,B0GR8NM59C,0
-candle,B0FKY7VLB6,0
-candle,B005O91CUE,0
-candle,B0F3F2XPW1,0
-candle,B08J1W22JN,0
-candle,B0F3DPXQP1,0
-candle,B001L2MD2E,0
-candle,B0F3F5FHWT,0
-candle,B0CHYWN5W6,0
-candle,B0DYMW78WD,0
-candle,B098F5CC4N,0
+instant pot,B0D6728WV1,1
+electric toothbrush,B0B5HRWH1S,1
+electric toothbrush,B0FKBGLZRL,1
+electric toothbrush,B0GQW7WKGN,1
+electric toothbrush,B0G3QN4SFY,1
+electric toothbrush,B09LD7WRVS,1
+electric toothbrush,B01AKGRTUM,1
+electric toothbrush,B0F5BV6B9G,1
+electric toothbrush,B0DNF673KY,1
+electric toothbrush,B0D5R69MPV,1
+electric toothbrush,B0FN3S7LKG,1
+electric toothbrush,B0GL15X3Q2,1
+electric toothbrush,B09LD8VFS1,1
+electric toothbrush,B09LD8T445,1
+electric toothbrush,B09LD8VXLX,1
+electric toothbrush,B0H46WV6X2,1
+electric toothbrush,B0H37L6YRC,1
+electric toothbrush,B0HF49D8VL,1
+electric toothbrush,B0FKB289VY,1
+electric toothbrush,B07XF8NT4C,1
+electric toothbrush,B0B5YPHMW8,1
+electric toothbrush,B0FQJX3G3M,1
+electric toothbrush,B0F9FNQPDL,1
+electric toothbrush,B0H46R5KYR,1
+electric toothbrush,B0D1DRYBTN,1
+electric toothbrush,B0D1DQ7BH9,1
+electric toothbrush,B0G3QTZV2L,1
+electric toothbrush,B0G3RD2XVH,1
+electric toothbrush,B0GQWSKBLD,1
+electric toothbrush,B0DLLGG2Z8,1
+electric toothbrush,B07XG68WX2,1
+electric toothbrush,B0B5HVM6JX,1
+electric toothbrush,B0FRFW6VYR,1
+electric toothbrush,B0D1DB1LXJ,1
+electric toothbrush,B0GQWPSTH8,1
+electric toothbrush,B0GQWRBPK1,1
+electric toothbrush,B0CZL55GR7,1
+electric toothbrush,B07L5P2J8D,1
+electric toothbrush,B0B9RQJFDV,1
+electric toothbrush,B084TM4XKG,1
+electric toothbrush,B008I2IKI6,1
+electric toothbrush,B0G3QSHJCC,1
+electric toothbrush,B0DCCJZC9F,1
+electric toothbrush,B003UKM9CO,1
+electric toothbrush,B0DNMLK6SC,1
+electric toothbrush,B0B5HSNPNH,1
+electric toothbrush,B0FWM4HWBM,1
+electric toothbrush,B0B5HT9TSK,1
+electric toothbrush,B0B6JTYB49,1
+electric toothbrush,B0G67KHJ47,1
+electric toothbrush,B0CP8QM3R1,1
+electric toothbrush,B08WSTTCMG,1
+electric toothbrush,B0G156GM21,1
+electric toothbrush,B0HCXX5H1P,1
+electric toothbrush,B0F32L1MCQ,1
+electric toothbrush,B0B6KKXWQV,1
+electric toothbrush,B0GWWN7WCK,1
+electric toothbrush,B0B5YPZS45,1
+electric toothbrush,B078BF27BF,1
+electric toothbrush,B0FD3TL8GL,1
+budget laptop,B0DT81KH5Z,1
+budget laptop,B0GRJ59M6Y,1
+budget laptop,B0GY16ZXZV,1
+budget laptop,B0DVCBYMQY,1
+budget laptop,B0H9D5WDWV,1
+budget laptop,B0C8171GTK,1
+budget laptop,B0GX66CNNJ,1
+budget laptop,B0GVYYSF7S,1
+budget laptop,B0F53SQRH4,1
+budget laptop,B0H2LTLNM4,1
+budget laptop,B0FS1V6XZD,1
+budget laptop,B08SHN3TZP,1
+budget laptop,B0F541NPR2,1
+budget laptop,B09SVSBVP1,1
+budget laptop,B0GZNFHH9H,1
+budget laptop,B0GRVFY42Q,1
+budget laptop,B0GN8PWC9M,1
+budget laptop,B09S3HNMHF,1
+budget laptop,B0CBJ46QZX,1
+budget laptop,B09XY1R1DR,1
+budget laptop,B0H99JJH7N,1
+budget laptop,B08CGSML8W,1
+budget laptop,B0D6Z664QC,1
+budget laptop,B0F68RH487,1
+bluetooth speaker,B0C4BZ28PG,1
+bluetooth speaker,B09B8V1LZ3,1
+bluetooth speaker,B0BRKPVZB4,1
+bluetooth speaker,B08FDPW8KR,1
+bluetooth speaker,B0HD9P2N29,1
+bluetooth speaker,B0CQ53RVTW,1
+bluetooth speaker,B0D6SX8VLQ,1
+bluetooth speaker,B0FKVSH438,1
+bluetooth speaker,B09MFBNTG3,1
+bluetooth speaker,B0H7X9HRHP,1
+bluetooth speaker,B0DN35M7S9,1
+bluetooth speaker,B0DKYB8LFV,1
+bluetooth speaker,B08TTCHNP2,1
+bluetooth speaker,B0DYF5Y6RG,1
+bluetooth speaker,B0GVNC5ZJ9,1
+bluetooth speaker,B0CJVFWQQH,1
+bluetooth speaker,B0BF2GL3J7,1
+bluetooth speaker,B0D6WD2QSQ,1
+bluetooth speaker,B0F998HYS5,1
+bluetooth speaker,B088KRPCQJ,1
+bluetooth speaker,B0D6W8GSL3,1
+bluetooth speaker,B0FS1XDKTL,1
+bluetooth speaker,B0HC5PBRL8,1
+bluetooth speaker,B0D4QMJHR3,1
+bluetooth speaker,B07DMMG7QY,1
+bluetooth speaker,B0D6WB7BV6,1
+bluetooth speaker,B0CB9PF1N6,1
+bluetooth speaker,B0FF4NB4QG,1
+kitchen knife set,B0H2NBJ2RN,1
+kitchen knife set,B08R64HCRK,1
+kitchen knife set,B0GX19GQXH,1
+kitchen knife set,B0DKMHKDK3,1
+kitchen knife set,B0C1YBPJ43,1
+kitchen knife set,B00GHX5HGG,1
+kitchen knife set,B0H2NLCZBQ,1
+kitchen knife set,B0G4M9K8CY,1
+kitchen knife set,B0CG8WC1BV,1
+kitchen knife set,B0D22R6RXB,1
+kitchen knife set,B0CSYKLLJ5,1
+kitchen knife set,B0G8HTRKQG,1
+kitchen knife set,B0F3KWZQ61,1
+kitchen knife set,B01ALYD1WI,1
+kitchen knife set,B0DYP3J5BW,1
+kitchen knife set,B0CD7FMZ67,1
+kitchen knife set,B0H29NQJSF,1
+kitchen knife set,B0F9FCYKJZ,1
+kitchen knife set,B0CWRBSKD6,1
+kitchen knife set,B0H41MQ5ZK,1
+kitchen knife set,B0GTV7FZJT,1
+kitchen knife set,B0CP5QXC1H,1
+kitchen knife set,B0G4LV352H,1
+kitchen knife set,B0DQ7ZHH31,1
+kitchen knife set,B0FBGB5Q5T,1
+kitchen knife set,B0CRH87MK9,1
+kitchen knife set,B0BNJWWR3S,1
+kitchen knife set,B0DFZG4CR3,1
+kitchen knife set,B00R3Z49G6,1
+kitchen knife set,B00GIBKC3K,1
+kitchen knife set,B08VJLYQ5D,1
+kitchen knife set,B07BN5MZBW,1
+kitchen knife set,B0CWRCCFTM,1
+kitchen knife set,B09HCX9BTV,1
+kitchen knife set,B0G8HSMYJJ,1
+kitchen knife set,B0GQGJ4YF5,1
+kitchen knife set,B007RWD11Y,1
+kitchen knife set,B0GCJQ4Z51,1
+kitchen knife set,B0DBJSS5LD,1
+kitchen knife set,B0G5GGC7FP,1
+kitchen knife set,B0C9LP36Q5,1
+kitchen knife set,B09B7R3SY7,1
+kitchen knife set,B09Q5KPFXM,1
+kitchen knife set,B0GK19NTQP,1
+kitchen knife set,B0BW91HX7D,1
+kitchen knife set,B0BFQLRHTJ,1
+kitchen knife set,B0FXX4Q21N,1
+kitchen knife set,B0GK6Q7H3W,1
+kitchen knife set,B01B3GARVG,1
+kitchen knife set,B0FM83SLTL,1
+kitchen knife set,B0GC9RJQT1,1
+kitchen knife set,B0DB4W8FB1,1
+kitchen knife set,B09B7WRM8P,1
+kitchen knife set,B08DF5L81H,1
+kitchen knife set,B0FDR5YWM6,1
+kitchen knife set,B0CFXNZ26Z,1
+kitchen knife set,B0D9B96TBX,1
+kitchen knife set,B09BQSYYHC,1
+kitchen knife set,B0CKXSGV8F,1
+kitchen knife set,B0FDQ6SLSF,1
+kitchen knife set,B07ZJPXZDL,1
+kitchen knife set,B0D6QYVR24,1
+kitchen knife set,B0FM3217M3,1
+DSLR camera,B07PCSKGP7,1
+DSLR camera,B0FCY4SX8D,1
+DSLR camera,B07C2Z21X5,1
+DSLR camera,B0101RW3QK,1
+DSLR camera,B0B9BLHWB8,1
+DSLR camera,B0GYZSLDL5,1
+DSLR camera,B0C5PGRP7V,1
+DSLR camera,B06Y5RTN1T,1
+DSLR camera,B0H2DVMCR1,1
+DSLR camera,B0BLLCJ963,1
+DSLR camera,B09ZRN1N3Z,1
+DSLR camera,B0012OGF6Q,1
+DSLR camera,B004U4UHTQ,1
+DSLR camera,B07B45D8WV,1
+DSLR camera,B001EQ4BVI,1
+DSLR camera,B0F2GQ56YW,1
+DSLR camera,B06Y5ZCFHX,1
+DSLR camera,B00I1CPA0O,1
+DSLR camera,B0BNL4HJLB,1
+DSLR camera,B0DFC7L4XC,1
+DSLR camera,B08C32RVVR,1
+coffee maker,B0GVTQQLPD,1
+coffee maker,B01GJOMWVA,1
+coffee maker,B0GYZ32QLK,1
+coffee maker,B01N6T5QNO,1
+coffee maker,B07S98411N,1
+coffee maker,B09715G57M,1
+coffee maker,B07684BPLB,1
+coffee maker,B0C8B9V7HR,1
+coffee maker,B0D8LXRHQ8,1
+coffee maker,B0GXGP42QS,1
+coffee maker,B0H42JFSHP,1
+coffee maker,B0FPDWY7DH,1
+coffee maker,B0GL99Y6ND,1
+coffee maker,B00MVWGQX0,1
+coffee maker,B0H6M2J4GK,1
+coffee maker,B0GLQYTWSL,1
+coffee maker,B00JVSVM36,1
+coffee maker,B0CXTJPCMD,1
+coffee maker,B0FLSLVSHB,1
+coffee maker,B0FJXRCCQ1,1
+coffee maker,B0FHSC6SPM,1
+coffee maker,B0DKDSPMRC,1
+coffee maker,B0GV293Z4L,1
+coffee maker,B0GQBYVN9W,1
+coffee maker,B0FMTSRKYL,1
+coffee maker,B0DDT44XV1,1
+coffee maker,B0H6947QWS,1
+coffee maker,B0H88CWVXC,1
+coffee maker,B0D9QFRJMX,1
+coffee maker,B0892TW82K,1
+coffee maker,B0D45PK5V4,1
+coffee maker,B078NN17K3,1
+coffee maker,B0CT43D46H,1
+coffee maker,B0CZQCTD4K,1
+coffee maker,B08QD33PZ2,1
+coffee maker,B00CH9QWOU,1
+coffee maker,B0DPNJVG1Z,1
+coffee maker,B0CSDRZSGG,1
+coffee maker,B0BM3C13B6,1
+coffee maker,B00EI7DPPI,1
+coffee maker,B0DJFBF3SH,1
+coffee maker,B0DHCJDJBW,1
+coffee maker,B0C2JK9Y8V,1
+coffee maker,B002YI2IG0,1
+coffee maker,B07PFLM2LK,1
+coffee maker,B018UQ5AMS,1
+coffee maker,B0FMSTSYL7,1
+coffee maker,B077K9YW7D,1
+coffee maker,B01GJOMWYC,1
+coffee maker,B0F5JFTR1Q,1
+coffee maker,B0892V8JT8,1
+coffee maker,B0HDBKMR2F,1
+coffee maker,B0GGLB36C5,1
+coffee maker,B0DBHTL3CN,1
+coffee maker,B0FG7Q1X5B,1
+coffee maker,B0CWCHHDK5,1
+coffee maker,B0B41D4PR1,1
+coffee maker,B0FFN4JDNP,1
+coffee maker,B0DD4CWPW2,1
+coffee maker,B078WMLXXG,1
+coffee maker,B00AF7WUO2,1
+coffee maker,B00006IV0Q,1
+coffee maker,B08V8BQX2Z,1
+coffee maker,B0DR31TG5X,1
+coffee maker,B01N05O5GW,1
+coffee maker,B000FFILRO,1
+coffee maker,B000FFRZ26,1
+coffee maker,B07B9BNLHM,1
+gaming chair,B0FVXRZJ12,1
+gaming chair,B0GXZ69S18,1
+gaming chair,B0H8DBTLV6,1
+gaming chair,B0F9YFX3QN,1
+gaming chair,B0H6SD9317,1
+gaming chair,B0H49HVCPW,1
+gaming chair,B0F21QDV5F,1
+gaming chair,B0GSPDRHW1,1
+gaming chair,B0DYSK9GM8,1
+gaming chair,B0FRMS6KF3,1
+gaming chair,B0899BXLXD,1
+gaming chair,B0H82WWZ1D,1
+gaming chair,B08B12P6CS,1
+gaming chair,B0HBNDKB2X,1
+gaming chair,B0H7BR91VM,1
+gaming chair,B0FWQK7TBQ,1
+gaming chair,B0GXVPBXKX,1
+gaming chair,B0DCHXTGRN,1
+gaming chair,B0FN3JSVNZ,1
+gaming chair,B0H7XF1D5Z,1
+gaming chair,B0FQ73W5M2,1
+gaming chair,B0DQP3717T,1
+gaming chair,B0DZCLTHW7,1
+gaming chair,B0FXX83W1H,1
+gaming chair,B0H6ZWS7BF,1
+gaming chair,B0CG6V2XGS,1
+gaming chair,B0BN6RRD5V,1
+gaming chair,B0FRMQ5X9R,1
+gaming chair,B0FFGK32C5,1
+gaming chair,B0CP22DQQS,1
+gaming chair,B0GVZYSLK2,1
+gaming chair,B0D9VPSQM7,1
+gaming chair,B0D4TKP2M1,1
+gaming chair,B0G2BPN56M,1
+gaming chair,B0CG6TN45R,1
+gaming chair,B0DLVWB9RC,1
+gaming chair,B0GS5QKBP2,1
+gaming chair,B0DGK8TG51,1
+gaming chair,B0GHWBLFMN,1
+gaming chair,B0GXZ39NBD,1
+gaming chair,B0CB1BNBY7,1
+gaming chair,B0GXVTGXC2,1
+gaming chair,B0GHWLZF39,1
+gaming chair,B0H6PZMQ1L,1
+gaming chair,B0FH25Z9W3,1
+gaming chair,B0GXDWJD86,1
+gaming chair,B0DY6ZP7YW,1
+gaming chair,B0F6WBLG4W,1
+gaming chair,B0H14TPV1L,1
+gaming chair,B0GFVL4Z2W,1
+gaming chair,B0FLJLV8WN,1
+gaming chair,B0H6LKBHYN,1
+gaming chair,B0F21SSY1N,1
+gaming chair,B0DGK4LBX9,1
+gaming chair,B0DZNMWKXH,1
+gaming chair,B0FBWHDDFT,1
+gaming chair,B0FM87RYYR,1
+gaming chair,B0F21SC1LN,1
+backpack,B0DL8W99LM,1
+backpack,B0C13GFY7N,1
+backpack,B0772RGLXL,1
+backpack,B0FF4TFCW3,1
+backpack,B0GMPLYJ61,1
+backpack,B0DDB4DTJ1,1
+backpack,B0DSQM6PZH,1
+backpack,B07F2YJRN2,1
+backpack,B07CPW148Z,1
+backpack,B0CHGWX7HG,1
+backpack,B07V4R4Z77,1
+backpack,B0CHGVV5L7,1
+backpack,B08KSHWYL2,1
+backpack,B0DQSJM8SX,1
+backpack,B006HFJA12,1
+backpack,B0DT1H3CR1,1
+backpack,B0FSLB42V3,1
+backpack,B0DDBRKYS2,1
+backpack,B0DH6C8XF6,1
+backpack,B0F9LRK6SS,1
+backpack,B09G93DTC4,1
+backpack,B0CJV796DD,1
+backpack,B085915D2Q,1
+backpack,B0G6KVPV4N,1
+backpack,B0F26F1MJN,1
+backpack,B0C49VRLZF,1
+monitor 27 inch,B0D9MK23S7,1
+monitor 27 inch,B0DN13DH1K,1
+monitor 27 inch,B0FHXY7VZ5,1
+monitor 27 inch,B0CH9WTW56,1
+monitor 27 inch,B0CHHSFMRL,1
+monitor 27 inch,B0DM6SNBGM,1
+monitor 27 inch,B0DTH3SGZD,1
+monitor 27 inch,B0H5FG8TL2,1
+monitor 27 inch,B0FLM15Q5L,1
+monitor 27 inch,B0DB9Q5G3R,1
+monitor 27 inch,B0B3DS23NB,1
+monitor 27 inch,B0H5FJXKRG,1
+monitor 27 inch,B0H85RW8H8,1
+monitor 27 inch,B0DF786923,1
+monitor 27 inch,B0GDWKLYTH,1
+monitor 27 inch,B0FBWJ8RZW,1
+monitor 27 inch,B0D8LH2VSP,1
+monitor 27 inch,B0DK44759Y,1
+monitor 27 inch,B0FG632MT5,1
+monitor 27 inch,B0C8ZJNZY8,1
+monitor 27 inch,B0CP7RZRMD,1
+monitor 27 inch,B0F6PLGZQG,1
+monitor 27 inch,B0FTVB3V15,1
+monitor 27 inch,B0H4KL7XZ8,1
+monitor 27 inch,B0GJ5HHTJT,1
+monitor 27 inch,B0D2R2GXK8,1
+water bottle,B0CQVWT2NH,1
+water bottle,B0GGD62HDT,1
+water bottle,B0B35K8H4Q,1
+water bottle,B0F1DN779Z,1
+water bottle,B085DTZQNZ,1
+water bottle,B0BZYCJK89,1
+water bottle,B0C3B6P16S,1
+water bottle,B0G58QQTD9,1
+water bottle,B0DSGHDTW6,1
+water bottle,B0CPKT4Q41,1
+water bottle,B0H6WYQCTX,1
+water bottle,B0B6DCN2CJ,1
+water bottle,B085DV8T75,1
+water bottle,B0D2W1MKZX,1
+water bottle,B0DQ5RJ113,1
+water bottle,B0G6GC8YD7,1
+water bottle,B0DR9ML5X9,1
+water bottle,B0H3SW9DJV,1
+water bottle,B085DVHQ57,1
+water bottle,B085DVNHHK,1
+water bottle,B0C59B9VJ4,1
+water bottle,B0D8J2ZB8P,1
+water bottle,B0DDM6V1MR,1
+water bottle,B0CXSCF61B,1
+water bottle,B0BHYXC7PG,1
+water bottle,B0FFTL7QNC,1
+water bottle,B0C59BYVTQ,1
+water bottle,B0F2WMS7CC,1
+water bottle,B0FK1CDVHB,1
+water bottle,B09SJRBMP3,1
+water bottle,B0BZYBP74R,1
+water bottle,B0FFTLT14Y,1
+water bottle,B0DLCG65B5,1
+water bottle,B07N2F3JXP,1
+water bottle,B0D8J37DHP,1
+water bottle,B0CQVWW5QK,1
+water bottle,B0F5S3SQJK,1
+water bottle,B0GH7M2MPW,1
+water bottle,B0DGHQWVDQ,1
+water bottle,B0DR9PVSC9,1
+water bottle,B0CDL2V8KX,1
+water bottle,B0DG36YPZM,1
+water bottle,B0CP9YB3Q4,1
+water bottle,B09LM1P132,1
+water bottle,B0H1YP71W7,1
+water bottle,B0FFTMLYT1,1
+water bottle,B07YXM6XTF,1
+water bottle,B0FC2PYBBD,1
+water bottle,B0BY2Q3Q4K,1
+water bottle,B00LZSR3KQ,1
+water bottle,B0DTP745KH,1
+water bottle,B07V8LP11V,1
+water bottle,B0GVG4BF6W,1
+water bottle,B0BHBP1X1B,1
+water bottle,B0842S75K7,1
+water bottle,B0C1DZKS8J,1
+water bottle,B072HPWW1X,1
+water bottle,B0GL17JVGJ,1
+water bottle,B0GTYJXMT7,1
+water bottle,B08TQ8B1KH,1
+water bottle,B082TGNDJR,1
+water bottle,B0BBS8CTH2,1
+water bottle,B0DRWLLLM9,1
+water bottle,B0F1DN1W71,1
+water bottle,B0F8RCVN9H,1
+water bottle,B0BMSB9QRM,1
+water bottle,B0BMRZGGK6,1
+water bottle,B082H5S2N3,1
+t-shirt,B07XLTPC5L,1
+t-shirt,B086KY66PJ,1
+t-shirt,B0787P86ZZ,1
+t-shirt,B077ZMKWVM,1
+t-shirt,B07JCS8NRC,1
+t-shirt,B00HVW5HP8,1
+t-shirt,B09313VG36,1
+t-shirt,B0D2PKRQSN,1
+t-shirt,B0BNP7STX3,1
+t-shirt,B083JPS5T8,1
+t-shirt,B07NHW8Z3N,1
+t-shirt,B00JN3CIHS,1
+t-shirt,B09LD7VRGV,1
+t-shirt,B0GQVHN9N4,1
+t-shirt,B0828MYG9M,1
+t-shirt,B0GF15CCZ1,1
+t-shirt,B0BPYCHYP9,1
+t-shirt,B0DJNJBVWG,1
+t-shirt,B00KBZOTKQ,1
+t-shirt,B074XY7M7Q,1
+t-shirt,B01KNM3HG8,1
+t-shirt,B0C1Z2WXLS,1
+t-shirt,B0G3WJZNZN,1
+t-shirt,B0DJNFSHMQ,1
+t-shirt,B0CLFFB8MH,1
+t-shirt,B00VTVAR2U,1
+t-shirt,B072V8Y2C8,1
+t-shirt,B07KFQJD64,1
+t-shirt,B07M8NXFWM,1
+t-shirt,B00LSRTZPU,1
+t-shirt,B09B4ML4HZ,1
+t-shirt,B09SNTBDKQ,1
+t-shirt,B0CYC5GDYP,1
+t-shirt,B0GTR65922,1
+t-shirt,B08F2NB5PH,1
+t-shirt,B0FFQKF4V7,1
+t-shirt,B0G4RRS5BP,1
+t-shirt,B07HRHBLJ4,1
+t-shirt,B0D4QT1JDQ,1
+t-shirt,B08N5G7ZX7,1
+t-shirt,B00VTV95AK,1
+t-shirt,B071DVQLT2,1
+t-shirt,B0767PWDQ4,1
+t-shirt,B0FVBPT4BF,1
+t-shirt,B0BR4RZ58V,1
+t-shirt,B0G5442JJX,1
+t-shirt,B0FF5DLFND,1
+t-shirt,B0CLPJGXHK,1
+t-shirt,B08WTYGVL5,1
+t-shirt,B09GYK6TWW,1
+t-shirt,B09V33J4K9,1
+t-shirt,B09QJHXZPJ,1
+t-shirt,B0DDTP97LQ,1
+t-shirt,B0H7HWP7LW,1
+t-shirt,B0FXWWQ6YT,1
+t-shirt,B0H1C9YMN5,1
+notebook journal,B0GCTGMRH2,1
+notebook journal,B0GCV1DP3T,1
+notebook journal,B0FXGBD3PB,1
+notebook journal,B0FXG9N23D,1
+notebook journal,B0CT4HX4T9,1
+notebook journal,B01DN8TCEU,1
+notebook journal,B0DZ323MTR,1
+notebook journal,B0DCBY7KH4,1
+notebook journal,B0BYVN7WLB,1
+notebook journal,B0967ZVMPK,1
+notebook journal,B0CWD4JY8W,1
+notebook journal,B07L4JCG7T,1
+notebook journal,B0B4DKQSDV,1
+notebook journal,B0GTDBXDZT,1
+notebook journal,B003O2RXUQ,1
+notebook journal,B0CR6N36LF,1
+notebook journal,B0G2XTRGNX,1
+notebook journal,B0BQJB21XN,1
+notebook journal,B0GV339M4D,1
+notebook journal,B0CWS28VK1,1
+notebook journal,B0D1KDFG6J,1
+notebook journal,B0GPFKDGK8,1
+notebook journal,B0CFVNXW8J,1
+notebook journal,B0G5YTJQCF,1
+notebook journal,B0B8HG6439,1
+notebook journal,B0DPJTS6ZB,1
+notebook journal,B01BHL3DCC,1
+notebook journal,B0CG28KM9Y,1
+notebook journal,8883707168,1
+notebook journal,B0C8JZ57R1,1
+notebook journal,B00D3OR58A,1
+notebook journal,B00P9U2EM8,1
+notebook journal,B071NRXVBP,1
+notebook journal,B08FC2VFLF,1
+notebook journal,B0BTV6X42F,1
+notebook journal,B0BZ3F5DCM,1
+notebook journal,B0F9NXFRR6,1
+notebook journal,B0DHRYBNDG,1
+notebook journal,B0G5PLHR14,1
+notebook journal,B097GVX9W9,1
+notebook journal,B0028N6PSS,1
+notebook journal,B07DPLQMF9,1
+notebook journal,B0CX1RDX77,1
+notebook journal,B0C23S36QF,1
+notebook journal,B07ZHNKGVC,1
+notebook journal,B0CN3SKN8M,1
+notebook journal,B071VJPRD4,1
+notebook journal,B0BXX1TJC8,1
+notebook journal,B0BVG2WPX6,1
+notebook journal,B08KCVRL2V,1
+notebook journal,B0BLHW4KRY,1
+notebook journal,B07ZN5PKP7,1
+notebook journal,B0D842FXFX,1
+notebook journal,B0C1Z48WKW,1
+notebook journal,B0CN3T7NZ5,1
+notebook journal,B08YNMTT2D,1
+notebook journal,B07FBC8P59,1
+notebook journal,B0CD9NXQXR,1
+notebook journal,B00X7X2KIC,1
+notebook journal,B0F38F2GF7,1
+notebook journal,B0F9WDY38C,1
+notebook journal,B0BYV2DJ1K,1
+notebook journal,B07F21QL27,1
+notebook journal,B0F9KTK8KD,1
+notebook journal,B0D1R5PMTB,1
+notebook journal,B0F9YMXCTF,1
+notebook journal,B08W4DKKCD,1
+notebook journal,B0DZ1Y32YG,1
+sneakers,B07B422G13,1
+sneakers,B014GNJS22,1
+sneakers,B084Z3XCDC,1
+sneakers,B0D5N58H38,1
+sneakers,B0C85BX7LR,1
+sneakers,B0CY23TN6X,1
+sneakers,B0936R8ZF3,1
+sneakers,B0B89H61L5,1
+sneakers,B0CK3BZBCM,1
+sneakers,B0BZXTB2RJ,1
+sneakers,B07B41HCNT,1
+sneakers,B0CL7RDRRT,1
+sneakers,B00FLCQ7EU,1
+sneakers,B0B9BN2M4S,1
+sneakers,B0CFN4QH37,1
+sneakers,B077ZF7B7R,1
+sneakers,B000ARIVG8,1
+sneakers,B077ZNKJ3Z,1
+sneakers,B00DJSRMVK,1
+sneakers,B0F4WY29V3,1
+sneakers,B0CMQLKP9J,1
+sneakers,B0G459XG71,1
+sneakers,B0G4XB3L4M,1
+sneakers,B0CGT6ZRGJ,1
+sneakers,B0CJTDR63F,1
+sneakers,B0DK5VL765,1
+sneakers,B0G5BS3RLS,1
+sneakers,B0D6CKVZ6F,1
+sneakers,B0GY1H4MBY,1
+sneakers,B093TYSZ6C,1
+sneakers,B0C5Z3C3JB,1
+sneakers,B0BSMDKK65,1
+sneakers,B083PP9CBY,1
+sneakers,B09VTJ53QD,1
+sneakers,B08GB5VH31,1
+sneakers,B0G5BPXN9H,1
+sneakers,B09H3NJX44,1
+sneakers,B07B428PCL,1
+sneakers,B0D5N3YV1W,1
+sneakers,B0DHLJS6KB,1
+sneakers,B0D3622TBQ,1
+sneakers,B0D5MV92SN,1
+sneakers,B0CNY53JZP,1
+sneakers,B0CTJ4P8CH,1
+sneakers,B000OCQ1DY,1
+sneakers,B0FNS4SZLX,1
+sneakers,B0DGLZ97VN,1
+sneakers,B0DK5ZR1LS,1
+sneakers,B0F4MHZKJB,1
+sneakers,B08DXMTLXR,1
+sneakers,B0DC9M8YPB,1
+sneakers,B0FHJG27F1,1
+sneakers,B07BKLXNC7,1
+sneakers,B09NSS4RJV,1
+sneakers,B0GDF12DZM,1
+sneakers,B0CFZLJNZ4,1
+sneakers,B0D5MWHSQD,1
+candle,B0FKYVRDNF,1
+candle,B0GF1NWKQX,1
+candle,B0DKTBL8G6,1
+candle,B0B5M1Q93F,1
+candle,B0F66HVPDY,1
+candle,B01N0RSC4K,1
+candle,B0FZTTHNKK,1
+candle,B0FV3216JR,1
+candle,B0GWR4XW6C,1
+candle,B0CC98RMFT,1
+candle,B07TYM4LMX,1
+candle,B08XZ3HWF3,1
+candle,B07GH691SQ,1
+candle,B01M7TTA2S,1
+candle,B0F3DQSZKT,1
+candle,B0H3NVNCNR,1
+candle,B0FZTNH72L,1
+candle,B0DJLVBBDX,1
+candle,B0D8VR4BTZ,1
+candle,B000YBFJQU,1
+candle,B0F3DRTCB2,1
+candle,B0GYYFY9B5,1
+candle,B0FSRFYC4C,1
+candle,B0GS5MYPW8,1
+candle,B0GR8NM59C,1
+candle,B0FKY7VLB6,1
+candle,B005O91CUE,1
+candle,B0F3F2XPW1,1
+candle,B08J1W22JN,1
+candle,B0F3DPXQP1,1
+candle,B001L2MD2E,1
+candle,B0F3F5FHWT,1
+candle,B0CHYWN5W6,1
+candle,B0DYMW78WD,1
+candle,B098F5CC4N,1
 candle,B09D9XLZ3Q,0
-candle,B07H14RYTV,0
-candle,B0H13SBHS1,0
-candle,B07982DFFD,0
-candle,B002YX0GAA,0
-candle,B0DP74YCXR,0
-candle,B0CJ2STB79,0
-candle,B08YFF5MXX,0
-candle,B0CTJGJL2T,0
-candle,B0016R858U,0
-candle,B099XVDV91,0
-candle,B075DVZBGV,0
-candle,B0FCXKSJQ3,0
-candle,B0F3DSJZ5H,0
-candle,B0BZWT9BF4,0
-candle,B002YX0GEQ,0
-candle,B003U31MXS,0
-candle,B07K7RF81J,0
-candle,B0D83HBHBM,0
-candle,B00429KMH6,0
-candle,B0D9849WQD,0
-candle,B07F2QX4Y5,0
-candle,B0038WVR6I,0
-candle,B000S95R74,0
-candle,B00X5Z0H3W,0
-candle,B08V12HBY9,0
-candle,B099N339G7,0
-candle,B01N5W4EUC,0
-candle,B0C4G7KDTK,0
-sunglasses,B0F28L2J8G,0
-sunglasses,B0B2SHY2RT,0
-sunglasses,B00DE0N6JK,0
-sunglasses,B0BLZF44MG,0
-sunglasses,B0BKSKCYX7,0
-sunglasses,B0F8HWPP54,0
-sunglasses,B0GVY15XXB,0
-sunglasses,B0BWTW5DX2,0
-sunglasses,B07MW4R1X3,0
-sunglasses,B0DHWXM4J5,0
-sunglasses,B0BKGPYDSZ,0
-sunglasses,B0HG94VL3Z,0
-sunglasses,B0BYZV75L2,0
-sunglasses,B089DJK1KF,0
-sunglasses,B0BZCR372G,0
-sunglasses,B0GZP22CHT,0
-sunglasses,B0DYV736NT,0
-sunglasses,B0F28L5GK5,0
-sunglasses,B0DZHKSJWD,0
-sunglasses,B0FD8M1ZVY,0
-sunglasses,B0DYV6MY99,0
-sunglasses,B09FPVJDZ2,0
-sunglasses,B0F1TBXD8B,0
-sunglasses,B07XCQ3Z8H,0
-sunglasses,B0F21DH46Q,0
-sunglasses,B0GT95DC5W,0
-sunglasses,B0CSRTT4KK,0
-sunglasses,B0FF3V5DBT,0
-sunglasses,B0C1NDGV2S,0
-sunglasses,B0FNX3YNGZ,0
-sunglasses,B07MRD7118,0
-sunglasses,B0C4Y32M4S,0
-sunglasses,B000GLN15O,0
-sunglasses,B08FRT557T,0
-sunglasses,B09TQLWNL1,0
-sunglasses,B0D2X2KP7Q,0
-sunglasses,B0GVN98BP7,0
-sunglasses,B0C7KYKTL5,0
-sunglasses,B0B3XKHTR1,0
-sunglasses,B09RZM9HDS,0
-sunglasses,B0F5GQQKG7,0
-sunglasses,B0FWJFFRJH,0
-sunglasses,B0C5GTHLZ8,0
-sunglasses,B0D97BWLZ4,0
-sunglasses,B07YSQMBZN,0
-sunglasses,B01LYQK0YX,0
-sunglasses,B0995MYSRN,0
-sunglasses,B000K7F3YG,0
-sunglasses,B0FCLXHDWW,0
-sunglasses,B0769KCQCB,0
-sunglasses,B09QSWLDDZ,0
-sunglasses,B07996YZPD,0
-sunglasses,B07J2NRG93,0
-sunglasses,B077Z6Y9QF,0
-sunglasses,B0FG7W8LP3,0
-sunglasses,B002ZLYRNI,0
-sunglasses,B07MCXWSH6,0
-sunglasses,B0C68QGFX4,0
-sunglasses,B009OGG8FW,0
-sunglasses,B01LZSLIE2,0
-sunglasses,B01BU1S5HC,0
-sunglasses,B075B7788K,0
-sunglasses,B0F9L7N1FY,0
-sunglasses,B0GDRGSRYH,0
-sunglasses,B0GZTCV26C,0
-sunglasses,B0H73WRF8D,0
-phone stand,B0H4MFPFDP,0
-phone stand,B087QBTM6R,0
-phone stand,B07F8S18D5,0
-phone stand,B0744DM3Y3,0
-phone stand,B0949DWJCV,0
-phone stand,B07H878J9Z,0
-phone stand,B0CMTG445R,0
-phone stand,B0H4Y31RJX,0
-phone stand,B0GGRQKHV1,0
-phone stand,B0G42DVVV4,0
-phone stand,B09MCKK9NX,0
-phone stand,B07Z82895W,0
-phone stand,B0H2YMY3YC,0
-phone stand,B0CMM89Y6Z,0
-phone stand,B0FB349R8G,0
-phone stand,B0H2CR24QM,0
-phone stand,B0DXFFY4YV,0
-phone stand,B088H1YDS1,0
-phone stand,B09TQY66NH,0
-phone stand,B08DTZM7LM,0
-phone stand,B0CNTH3F7P,0
-phone stand,B0HDJ2BB9S,0
-phone stand,B0BRN58CXR,0
-phone stand,B07BK5P5ST,0
-phone stand,B0DP42G526,0
-phone stand,B08B3NHBJ4,0
-phone stand,B0CM6SS6PF,0
-yamaha accoustic guitar,B00009J580,0
-yamaha accoustic guitar,B0BTMNK1L8,0
-yamaha accoustic guitar,B07RKVQCWC,0
-yamaha accoustic guitar,B000RVYMWE,0
-yamaha accoustic guitar,B0FZKSH4TN,0
-yamaha accoustic guitar,B0GFFTFYDB,0
-yamaha accoustic guitar,B086KYGC9J,0
-yamaha accoustic guitar,B09J4V4XFM,0
-yamaha accoustic guitar,B0FZL435HZ,0
-yamaha accoustic guitar,B0CSM2MJ55,0
-yamaha accoustic guitar,B0DJ9H2848,0
-yamaha accoustic guitar,B0BPHB8519,0
-yamaha accoustic guitar,B0CH6V6VW8,0
-yamaha accoustic guitar,B08NSYBPHY,0
-yamaha accoustic guitar,B0GXF5L2RJ,0
-yamaha accoustic guitar,B0GL9456R7,0
-yamaha accoustic guitar,B0GL9QYRVZ,0
-yamaha accoustic guitar,B0FJCRW6CG,0
-yamaha accoustic guitar,B0FJCPP6RP,0
-yamaha accoustic guitar,B088LDRMZR,0
-yamaha accoustic guitar,B000A6ASSS,0
-yamaha accoustic guitar,B0CJ54PKXN,0
-yamaha accoustic guitar,B0D53GYMTC,0
-yamaha accoustic guitar,B0GJFXF52B,0
-yamaha accoustic guitar,B08W1YKCH5,0
-yamaha accoustic guitar,B0H12BW67D,0
-yamaha accoustic guitar,B0CN1JGYKQ,0
-yamaha accoustic guitar,B0002E1O2C,0
-yamaha accoustic guitar,B098BJ4H4S,0
-yamaha accoustic guitar,B0DMR1K61R,0
-yamaha accoustic guitar,B0F8HNPKDB,0
-yamaha accoustic guitar,B07TJXQ1TL,0
-yamaha accoustic guitar,B009NNZOEW,0
-yamaha accoustic guitar,B089P1LLFS,0
-yamaha accoustic guitar,B092DZJG33,0
-yamaha accoustic guitar,B0CN1L2BG8,0
-yamaha accoustic guitar,B0FJCGFR4G,0
-yamaha accoustic guitar,B079FRVSPH,0
-yamaha accoustic guitar,B0DZPB14S2,0
-yamaha accoustic guitar,B0DZPBYSDF,0
-yamaha accoustic guitar,B09WVZMKWG,0
-yamaha accoustic guitar,B084BZH9PG,0
-yamaha accoustic guitar,B0DJPYN19Z,0
-yamaha accoustic guitar,B07K7J4CMY,0
-yamaha accoustic guitar,B071JG4GWT,0
-yamaha accoustic guitar,B0DZP9T5L7,0
-yamaha accoustic guitar,B000OR2RNM,0
-yamaha accoustic guitar,B07JR7Y8YD,0
-yamaha accoustic guitar,B0H28ZM4NL,0
-yamaha accoustic guitar,B0D2PNMDJZ,0
-yamaha accoustic guitar,B0849ZFBGS,0
-yamaha accoustic guitar,B0FX9C1ZDH,0
-yamaha accoustic guitar,B09XVLKGFT,0
-yamaha accoustic guitar,B07FYQP9ML,0
-yamaha accoustic guitar,B07XJLD2BL,0
-yamaha accoustic guitar,B0H4HQ9XFN,0
-yamaha accoustic guitar,B003GMP03Q,0
-yamaha accoustic guitar,B000EEJ8CS,0
-yamaha accoustic guitar,B09XVKZD34,0
-yamaha accoustic guitar,B0F9P519ZM,0
-yamaha accoustic guitar,B0GHZ9S4JH,0
+candle,B07H14RYTV,1
+candle,B0H13SBHS1,1
+candle,B07982DFFD,1
+candle,B002YX0GAA,1
+candle,B0DP74YCXR,1
+candle,B0CJ2STB79,1
+candle,B08YFF5MXX,1
+candle,B0CTJGJL2T,1
+candle,B0016R858U,1
+candle,B099XVDV91,1
+candle,B075DVZBGV,1
+candle,B0FCXKSJQ3,1
+candle,B0F3DSJZ5H,1
+candle,B0BZWT9BF4,1
+candle,B002YX0GEQ,1
+candle,B003U31MXS,1
+candle,B07K7RF81J,1
+candle,B0D83HBHBM,1
+candle,B00429KMH6,1
+candle,B0D9849WQD,1
+candle,B07F2QX4Y5,1
+candle,B0038WVR6I,1
+candle,B000S95R74,1
+candle,B00X5Z0H3W,1
+candle,B08V12HBY9,1
+candle,B099N339G7,1
+candle,B01N5W4EUC,1
+candle,B0C4G7KDTK,1
+sunglasses,B0F28L2J8G,1
+sunglasses,B0B2SHY2RT,1
+sunglasses,B00DE0N6JK,1
+sunglasses,B0BLZF44MG,1
+sunglasses,B0BKSKCYX7,1
+sunglasses,B0F8HWPP54,1
+sunglasses,B0GVY15XXB,1
+sunglasses,B0BWTW5DX2,1
+sunglasses,B07MW4R1X3,1
+sunglasses,B0DHWXM4J5,1
+sunglasses,B0BKGPYDSZ,1
+sunglasses,B0HG94VL3Z,1
+sunglasses,B0BYZV75L2,1
+sunglasses,B089DJK1KF,1
+sunglasses,B0BZCR372G,1
+sunglasses,B0GZP22CHT,1
+sunglasses,B0DYV736NT,1
+sunglasses,B0F28L5GK5,1
+sunglasses,B0DZHKSJWD,1
+sunglasses,B0FD8M1ZVY,1
+sunglasses,B0DYV6MY99,1
+sunglasses,B09FPVJDZ2,1
+sunglasses,B0F1TBXD8B,1
+sunglasses,B07XCQ3Z8H,1
+sunglasses,B0F21DH46Q,1
+sunglasses,B0GT95DC5W,1
+sunglasses,B0CSRTT4KK,1
+sunglasses,B0FF3V5DBT,1
+sunglasses,B0C1NDGV2S,1
+sunglasses,B0FNX3YNGZ,1
+sunglasses,B07MRD7118,1
+sunglasses,B0C4Y32M4S,1
+sunglasses,B000GLN15O,1
+sunglasses,B08FRT557T,1
+sunglasses,B09TQLWNL1,1
+sunglasses,B0D2X2KP7Q,1
+sunglasses,B0GVN98BP7,1
+sunglasses,B0C7KYKTL5,1
+sunglasses,B0B3XKHTR1,1
+sunglasses,B09RZM9HDS,1
+sunglasses,B0F5GQQKG7,1
+sunglasses,B0FWJFFRJH,1
+sunglasses,B0C5GTHLZ8,1
+sunglasses,B0D97BWLZ4,1
+sunglasses,B07YSQMBZN,1
+sunglasses,B01LYQK0YX,1
+sunglasses,B0995MYSRN,1
+sunglasses,B000K7F3YG,1
+sunglasses,B0FCLXHDWW,1
+sunglasses,B0769KCQCB,1
+sunglasses,B09QSWLDDZ,1
+sunglasses,B07996YZPD,1
+sunglasses,B07J2NRG93,1
+sunglasses,B077Z6Y9QF,1
+sunglasses,B0FG7W8LP3,1
+sunglasses,B002ZLYRNI,1
+sunglasses,B07MCXWSH6,1
+sunglasses,B0C68QGFX4,1
+sunglasses,B009OGG8FW,1
+sunglasses,B01LZSLIE2,1
+sunglasses,B01BU1S5HC,1
+sunglasses,B075B7788K,1
+sunglasses,B0F9L7N1FY,1
+sunglasses,B0GDRGSRYH,1
+sunglasses,B0GZTCV26C,1
+sunglasses,B0H73WRF8D,1
+phone stand,B0H4MFPFDP,1
+phone stand,B087QBTM6R,1
+phone stand,B07F8S18D5,1
+phone stand,B0744DM3Y3,1
+phone stand,B0949DWJCV,1
+phone stand,B07H878J9Z,1
+phone stand,B0CMTG445R,1
+phone stand,B0H4Y31RJX,1
+phone stand,B0GGRQKHV1,1
+phone stand,B0G42DVVV4,1
+phone stand,B09MCKK9NX,1
+phone stand,B07Z82895W,1
+phone stand,B0H2YMY3YC,1
+phone stand,B0CMM89Y6Z,1
+phone stand,B0FB349R8G,1
+phone stand,B0H2CR24QM,1
+phone stand,B0DXFFY4YV,1
+phone stand,B088H1YDS1,1
+phone stand,B09TQY66NH,1
+phone stand,B08DTZM7LM,1
+phone stand,B0CNTH3F7P,1
+phone stand,B0HDJ2BB9S,1
+phone stand,B0BRN58CXR,1
+phone stand,B07BK5P5ST,1
+phone stand,B0DP42G526,1
+phone stand,B08B3NHBJ4,1
+phone stand,B0CM6SS6PF,1
+yamaha accoustic guitar,B00009J580,1
+yamaha accoustic guitar,B0BTMNK1L8,1
+yamaha accoustic guitar,B07RKVQCWC,1
+yamaha accoustic guitar,B000RVYMWE,1
+yamaha accoustic guitar,B0FZKSH4TN,1
+yamaha accoustic guitar,B0GFFTFYDB,1
+yamaha accoustic guitar,B086KYGC9J,1
+yamaha accoustic guitar,B09J4V4XFM,1
+yamaha accoustic guitar,B0FZL435HZ,1
+yamaha accoustic guitar,B0CSM2MJ55,1
+yamaha accoustic guitar,B0DJ9H2848,1
+yamaha accoustic guitar,B0BPHB8519,1
+yamaha accoustic guitar,B0CH6V6VW8,1
+yamaha accoustic guitar,B08NSYBPHY,1
+yamaha accoustic guitar,B0GXF5L2RJ,1
+yamaha accoustic guitar,B0GL9456R7,1
+yamaha accoustic guitar,B0GL9QYRVZ,1
+yamaha accoustic guitar,B0FJCRW6CG,1
+yamaha accoustic guitar,B0FJCPP6RP,1
+yamaha accoustic guitar,B088LDRMZR,1
+yamaha accoustic guitar,B000A6ASSS,1
+yamaha accoustic guitar,B0CJ54PKXN,1
+yamaha accoustic guitar,B0D53GYMTC,1
+yamaha accoustic guitar,B0GJFXF52B,1
+yamaha accoustic guitar,B08W1YKCH5,1
+yamaha accoustic guitar,B0H12BW67D,1
+yamaha accoustic guitar,B0CN1JGYKQ,1
+yamaha accoustic guitar,B0002E1O2C,1
+yamaha accoustic guitar,B098BJ4H4S,1
+yamaha accoustic guitar,B0DMR1K61R,1
+yamaha accoustic guitar,B0F8HNPKDB,1
+yamaha accoustic guitar,B07TJXQ1TL,1
+yamaha accoustic guitar,B009NNZOEW,1
+yamaha accoustic guitar,B089P1LLFS,1
+yamaha accoustic guitar,B092DZJG33,1
+yamaha accoustic guitar,B0CN1L2BG8,1
+yamaha accoustic guitar,B0FJCGFR4G,1
+yamaha accoustic guitar,B079FRVSPH,1
+yamaha accoustic guitar,B0DZPB14S2,1
+yamaha accoustic guitar,B0DZPBYSDF,1
+yamaha accoustic guitar,B09WVZMKWG,1
+yamaha accoustic guitar,B084BZH9PG,1
+yamaha accoustic guitar,B0DJPYN19Z,1
+yamaha accoustic guitar,B07K7J4CMY,1
+yamaha accoustic guitar,B071JG4GWT,1
+yamaha accoustic guitar,B0DZP9T5L7,1
+yamaha accoustic guitar,B000OR2RNM,1
+yamaha accoustic guitar,B07JR7Y8YD,1
+yamaha accoustic guitar,B0H28ZM4NL,1
+yamaha accoustic guitar,B0D2PNMDJZ,1
+yamaha accoustic guitar,B0849ZFBGS,1
+yamaha accoustic guitar,B0FX9C1ZDH,1
+yamaha accoustic guitar,B09XVLKGFT,1
+yamaha accoustic guitar,B07FYQP9ML,1
+yamaha accoustic guitar,B07XJLD2BL,1
+yamaha accoustic guitar,B0H4HQ9XFN,1
+yamaha accoustic guitar,B003GMP03Q,1
+yamaha accoustic guitar,B000EEJ8CS,1
+yamaha accoustic guitar,B09XVKZD34,1
+yamaha accoustic guitar,B0F9P519ZM,1
+yamaha accoustic guitar,B0GHZ9S4JH,1
 yamaha accoustic guitar,B0BQJGN3JS,0
 yamaha accoustic guitar,B07KF8L7Z5,0

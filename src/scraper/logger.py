@@ -1,6 +1,5 @@
 import csv
 from datetime import datetime
-import os
 
 def log_request_result(url, request_status, http_status_code):
 

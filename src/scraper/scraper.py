@@ -1,11 +1,10 @@
 import csv
 import json
-from datetime import datetime
+import random
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
 import time
@@ -16,7 +15,7 @@ from logger import log_request_result
 def get_text_from_element(element):
 
     text = element.get_attribute("textContent")
-    return text.strip()
+    return text
 
 
 def get_reviews(driver):
@@ -57,6 +56,9 @@ def scrape_individual_product(driver, asin):
     url = "https://www.amazon.com/dp/" + asin
     driver.get(url)
 
+    time.sleep(5 + random.uniform(0, 3)) 
+
+
     title = scrape_columns(driver, By.CSS_SELECTOR, "#productTitle")
     brand = scrape_columns(driver, By.CSS_SELECTOR, "#bylineInfo")
     if not brand:
@@ -68,38 +70,78 @@ def scrape_individual_product(driver, asin):
     price_whole = scrape_columns(driver, By.CSS_SELECTOR, ".a-price-whole")
     price_fraction = scrape_columns(driver, By.CSS_SELECTOR, ".a-price-fraction")
     price = f"{price_whole}.{price_fraction}"
+    if price == ".":
+        price = "not available"
 
 
     rating = scrape_columns(driver, By.CSS_SELECTOR, "span[data-hook='rating-out-of-text']")
     rating = rating.replace(" out of 5", "")
+    if not rating:
+        rating = "not available"
 
     review_count = scrape_columns(driver, By.CSS_SELECTOR, "#acrCustomerReviewText")
     review_count = review_count.replace("(", "")
     review_count = review_count.replace(")", "")
+    if not review_count:
+        review_count = "not available"
 
     image_url = scrape_image_url(driver)
 
-    description = scrape_columns(driver, By.CSS_SELECTOR, "#feature-bullets li span.a-list-item")
-    if not description:
-        description = scrape_columns(driver, By.CSS_SELECTOR, "#feature-bullets")
+    
+    description_elements = driver.find_elements(By.CSS_SELECTOR, "#feature-bullets")
+    if not description_elements:
+        description_elements = driver.find_elements(By.CSS_SELECTOR, ".a-unordered-list.a-vertical.a-spacing-mini")
+    if not description_elements:
+        description_elements = driver.find_elements(By.CSS_SELECTOR, "#feature-bullets .a-list-item")
+    if not description_elements: 
+        description_elements = driver.find_elements(By.CSS_SELECTOR, "#feature-bullets ul li span.a-list-item")
+    if not description_elements:
+        description_elements = driver.find_elements(By.CSS_SELECTOR, "#feature-bullets li span.a-list-item")
+    if not description_elements:
+        description_elements = driver.find_elements(By.CSS_SELECTOR, "#productFactsDesktopExpander")
+    if not description_elements:
+        description_elements = driver.find_elements(By.CSS_SELECTOR, "#feature-bullets li span.a-list-item")
+    description = ""
+    if description_elements:
+        description = " ".join(get_text_from_element(element) for element in description_elements)
 
+
+    if not description:
+        description = "not available"
     category = ""
     for category_element in driver.find_elements(By.CSS_SELECTOR, "#wayfinding-breadcrumbs_feature_div ul li a"):
         category_text = get_text_from_element(category_element)
         category = category + "," + category_text
+    
 
     if category:
         category = category[1:]
 
+    if not category:
+        category = "not available"
+
     reviews = get_reviews(driver)
-    with open("../../data/output/product_details.csv", "a", newline="", encoding="utf-8") as file:
-            writer = csv.writer(file)
-            writer.writerow([url, title, brand, rating, price, review_count, image_url, description, category, json.dumps(reviews)])
+    if not reviews:
+        reviews = "not available"
+    
     if title and brand and rating and price and review_count and image_url and description and category and reviews:
         log_request_result(url, "Success", 200)
+        with open("../../data/output/product_details.csv", "a", newline="", encoding="utf-8") as file:
+                    writer = csv.writer(file)
+                    writer.writerow([url, title, brand, rating, price, review_count, image_url, description, category, json.dumps(reviews)])
         return True
     else:
         log_request_result(url, "Failed", 404)
+        print( f"url: {url}")
+        print(f"title: {title}")
+        print(f"brand: {brand}")
+        print(f"rating: {rating}")
+        print(f"price: {price}")
+        print(f"review_count: {review_count}")
+        print(f"image_url: {image_url}")
+        print(f"description: {description}")
+        print(f"category: {category}")
+        #print(f"reviews: {reviews}")
         return False
 
 
@@ -143,7 +185,6 @@ def main():
             dataframe.at[i, "done"] = 1
 
 
-        time.sleep(3)
 
         if i % 10 == 0:
             dataframe.to_csv("../../data/output/products.csv", index=False)

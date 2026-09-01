@@ -10,9 +10,9 @@ import os
 
 df = pd.read_excel("../../data/input/SearchKeywordLists.xlsx")
 
-with open("../../data/output/products.csv", "a", newline="", encoding="utf-8") as file:
-    writer = csv.writer(file)
-    writer.writerow(["keyword", "asin"])
+# with open("../../data/output/products.csv", "a", newline="", encoding="utf-8") as file:
+#     writer = csv.writer(file)
+#     writer.writerow(["keyword", "asin"])
 
 #print(df)
 
