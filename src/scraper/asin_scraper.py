@@ -40,6 +40,8 @@ for keyword in df["Search Keywords"]:
     time.sleep(5)
 
 
+             
+
 
 
 driver.quit()
